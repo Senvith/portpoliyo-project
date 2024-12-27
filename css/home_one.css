@@ -1,0 +1,337 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+
+
+
+
+
+ *{
+    margin: 0;
+    padding: 0%;
+    font-family: 'Ubuntu';
+}
+
+
+
+.home_one{
+
+
+    background: var(--secondary-color);
+   
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    /* background-color: blue; */
+   
+}
+
+.home-box{
+
+ 
+    display: flex;
+    justify-content: center;
+    margin-top: fixed;
+   
+    
+}
+
+.home-box .home-img{
+
+    /* background-color: blue; */
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+
+/* home text section */
+
+
+.home-box .home-text{
+
+    width: 50%;
+    /* background-color: brown; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: right;
+    gap: 20px;
+    overflow: hidden;
+}
+
+
+.home-box .home-text h2{
+
+    font-size: 70px;
+    width: 80%;
+    color: var(--primary-color);
+    /* background-color: aqua; */
+    text-align: justify;
+}
+
+
+.home-box .home-text p{
+
+    font-size:23px ;
+    /* background-color: aquamarine; */
+    width: 90%;
+    text-align: justify;
+    color: var(--primary-color);
+}
+
+.home-box .home-text .text-box .resbtn{
+
+
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    background-color:var(--primary-color);
+    color: var(--secondary-color);
+    border-radius: 10px;
+    border: 1px solid var(--primary-color);
+
+
+}
+
+.home-box .home-text .text-box .conbtn{
+
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    border: none;
+    background-color: transparent;
+    color:var(--primary-color);
+   
+
+}
+
+.home-box .home-text .text-box .conbtn a{
+
+    color: var(--primary-color);
+}
+
+
+
+
+/* sreen withd */
+
+
+@media screen and (max-width:890px){
+
+    .home-box{
+
+        /* background-color: rgb(72, 255, 0); */
+        overflow: hidden;
+
+    }
+
+    .home-box .home-img{
+        width: 70%;
+    }
+
+    .home-box .home-img img{
+
+        width: 100%;
+        height: auto;
+       
+    }
+
+    /* end imge side */
+
+    .home-box .home-text{
+
+        width: 50%;
+
+    }
+
+    .home-box .home-text h2{
+
+        font-size: 40px;
+        text-align: center;
+
+    }
+
+    .home-box .home-text p{
+
+        font-size: 17px ;
+
+       
+    }
+
+    .home-box .home-text .text-box .resbtn{
+
+        width: 130px;
+        height: 40px;
+        font-size: 15px;
+       
+    }
+
+    .home-box .home-text .text-box .conbtn{
+
+        width: 130px;
+        height: 40px;
+        font-size: 17px;
+
+    }
+
+
+}
+
+/* allmobile responcive */
+
+@media screen and (max-width:690px){
+
+    .home-box{
+
+        /* background-color: rgb(72, 255, 0); */
+        flex-direction: column;
+        overflow: hidden;
+
+    }
+
+    .home-box .home-img{
+
+        width: 100%;
+        /* background-color: aqua; */
+    }
+
+    .home-box .home-img img{
+
+        width: 110%;
+    }
+
+    /* end imge side */
+
+    .home-box .home-text{
+
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .home-box .home-text h2{
+
+        width: 80%;
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .home-box .home-text p{
+
+        font-size: 18px;
+    }
+
+    .home-box .home-text .text-box .resbtn{
+        width: 120px;
+        height: 35px;
+        font-size:16px ;
+        border: none;
+        border-radius: 7px;
+    }
+
+    .home-box .home-text .text-box .conbtn{
+
+        width: 120px;
+        height: 35px;
+        font-size:16px ;
+        border: none;
+        border-radius: 7px;
+    }
+
+
+
+}
+
+
+/* smal one iphone se */
+
+
+@media screen and (max-width:376px){
+
+    .home-box{
+
+        /* background-color: rgb(72, 255, 0); */
+        flex-direction: column;
+        overflow: hidden;
+
+    }
+
+    .home-box .home-img{
+
+        width: 100%;
+        /* background-color: aqua; */
+    }
+
+    .home-box .home-img img{
+
+        width: 100%;
+    }
+
+    /* end imge side */
+
+    .home-box .home-text{
+
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .home-box .home-text h2{
+
+        width: 80%;
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .home-box .home-text p{
+
+        font-size: 15px;
+    }
+
+    .home-box .home-text .text-box .resbtn{
+        width: 120px;
+        height: 35px;
+        font-size:16px ;
+        border: none;
+        border-radius: 7px;
+    }
+
+    .home-box .home-text .text-box .conbtn{
+
+        width: 120px;
+        height: 35px;
+        font-size:16px ;
+        border: none;
+        border-radius: 7px;
+    }
+
+
+
+}
+
+
+@media screen and (max-width:315px){
+
+    .home_one{
+
+        /* background: red; */
+        min-width: 270px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

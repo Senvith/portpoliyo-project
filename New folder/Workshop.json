@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Introduction to Machine Learning",
+    "description": "A hands-on workshop covering the fundamentals of machine learning, including supervised and unsupervised learning techniques.",
+    "date": "2022-03-15",
+    "location": "Stanford University",
+    "video_link": "https://www.example.com/video/introduction-to-machine-learning"
+  },
+  {
+    "title": "Design Thinking for Innovation",
+    "description": "An interactive session on using design thinking principles to foster creativity and solve complex problems in various industries.",
+    "date": "2021-08-10",
+    "location": "Harvard Business School",
+    "video_link": "https://www.example.com/video/design-thinking-for-innovation"
+  },
+  {
+    "title": "Advanced Python Programming",
+    "description": "A technical workshop focusing on advanced Python topics like decorators, multithreading, and working with APIs.",
+    "date": "2020-11-25",
+    "location": "Online",
+    "video_link": "https://www.example.com/video/advanced-python-programming"
+  },
+  {
+    "title": "Digital Marketing Strategies",
+    "description": "A comprehensive guide to modern digital marketing, including SEO, content marketing, and social media strategies.",
+    "date": "2019-06-05",
+    "location": "New York City",
+    "video_link": "https://www.example.com/video/digital-marketing-strategies"
+  },
+  {
+    "title": "Cybersecurity Essentials",
+    "description": "An informative workshop on protecting systems and data from cyber threats, including best practices and tools.",
+    "date": "2023-09-14",
+    "location": "MIT",
+    "video_link": "https://www.example.com/video/cybersecurity-essentials"
+  }
+]

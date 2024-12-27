@@ -1,0 +1,47 @@
+[
+  {
+    "project_name": "E-Commerce Platform",
+    "description": "Developed a full-stack e-commerce web application with features like user authentication, product listings, and payment gateway integration.",
+    "technologies": ["React", "Node.js", "MongoDB", "Stripe API"],
+    "completion_date": "2022-06-15",
+    "project_link": "https://www.example.com/ecommerce-platform",
+    "github_link": "https://github.com/example/ecommerce-platform",
+    "image_link": "https://www.example.com/images/ecommerce-platform.png"
+  },
+  {
+    "project_name": "AI-Powered Chatbot",
+    "description": "Built an AI-powered chatbot for customer support that uses NLP to handle queries and integrates with CRM systems.",
+    "technologies": ["Python", "TensorFlow", "Flask", "Dialogflow"],
+    "completion_date": "2021-09-10",
+    "project_link": "https://www.example.com/ai-chatbot",
+    "github_link": "https://github.com/example/ai-chatbot",
+    "image_link": "https://www.example.com/images/ai-chatbot.png"
+  },
+  {
+    "project_name": "Weather Forecasting App",
+    "description": "Created a mobile application that provides real-time weather updates and forecasts using OpenWeatherMap API.",
+    "technologies": ["Kotlin", "Android Studio", "OpenWeatherMap API"],
+    "completion_date": "2020-03-25",
+    "project_link": "https://www.example.com/weather-forecasting-app",
+    "github_link": "https://github.com/example/weather-forecasting-app",
+    "image_link": "https://www.example.com/images/weather-app.png"
+  },
+  {
+    "project_name": "Personal Finance Tracker",
+    "description": "Designed a personal finance tracker to monitor expenses, set budgets, and generate monthly financial reports.",
+    "technologies": ["JavaScript", "Django", "SQLite", "Chart.js"],
+    "completion_date": "2019-11-05",
+    "project_link": "https://www.example.com/finance-tracker",
+    "github_link": "https://github.com/example/finance-tracker",
+    "image_link": "https://www.example.com/images/finance-tracker.png"
+  },
+  {
+    "project_name": "Portfolio Website",
+    "description": "Built a responsive portfolio website to showcase projects, certifications, and professional experience.",
+    "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    "completion_date": "2023-01-20",
+    "project_link": "https://www.example.com/portfolio-website",
+    "github_link": "https://github.com/example/portfolio-website",
+    "image_link": "https://www.example.com/images/portfolio-website.png"
+  }
+]

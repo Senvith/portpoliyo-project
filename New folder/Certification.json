@@ -1,0 +1,37 @@
+[
+  {
+    "certification": "AWS Certified Solutions Architect",
+    "organization": "Amazon Web Services",
+    "completion_date": "2022-05-10",
+    "certificate_link": "https://www.example.com/aws-solutions-architect-certificate",
+    "image_link": "https://www.example.com/images/aws-certification.png"
+  },
+  {
+    "certification": "Google Data Analytics Professional Certificate",
+    "organization": "Google",
+    "completion_date": "2021-08-15",
+    "certificate_link": "https://www.example.com/google-data-analytics-certificate",
+    "image_link": "https://www.example.com/images/google-data-analytics.png"
+  },
+  {
+    "certification": "Certified Scrum Master (CSM)",
+    "organization": "Scrum Alliance",
+    "completion_date": "2020-12-01",
+    "certificate_link": "https://www.example.com/certified-scrum-master",
+    "image_link": "https://www.example.com/images/csm-certification.png"
+  },
+  {
+    "certification": "Microsoft Certified: Azure Fundamentals",
+    "organization": "Microsoft",
+    "completion_date": "2023-03-20",
+    "certificate_link": "https://www.example.com/microsoft-azure-fundamentals-certificate",
+    "image_link": "https://www.example.com/images/azure-certification.png"
+  },
+  {
+    "certification": "CompTIA Security+",
+    "organization": "CompTIA",
+    "completion_date": "2019-07-18",
+    "certificate_link": "https://www.example.com/comptia-security-plus-certificate",
+    "image_link": "https://www.example.com/images/comptia-security-plus.png"
+  }
+]

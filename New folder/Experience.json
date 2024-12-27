@@ -1,0 +1,37 @@
+[
+  {
+    "company": "Google",
+    "position": "Software Engineer",
+    "start_date": "2018-07-01",
+    "end_date": "2021-03-15",
+    "description": "Developed scalable cloud solutions and optimized search engine algorithms, leading to a 15% increase in system performance."
+  },
+  {
+    "company": "Amazon",
+    "position": "Data Analyst",
+    "start_date": "2016-05-10",
+    "end_date": "2018-06-30",
+    "description": "Analyzed consumer data to identify trends and improve product recommendations, boosting sales by 20%."
+  },
+  {
+    "company": "Tesla",
+    "position": "Product Manager",
+    "start_date": "2021-04-01",
+    "end_date": "2023-02-28",
+    "description": "Led cross-functional teams to design and launch new electric vehicle features, enhancing user satisfaction by 25%."
+  },
+  {
+    "company": "Microsoft",
+    "position": "UX Designer",
+    "start_date": "2014-11-01",
+    "end_date": "2016-04-30",
+    "description": "Redesigned the user interface for Office 365, resulting in a 30% increase in user engagement."
+  },
+  {
+    "company": "Meta",
+    "position": "Machine Learning Engineer",
+    "start_date": "2023-03-01",
+    "end_date": "Present",
+    "description": "Building advanced AI models to improve content delivery algorithms, achieving a 10% improvement in user retention."
+  }
+]

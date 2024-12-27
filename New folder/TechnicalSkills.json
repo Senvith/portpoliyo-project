@@ -1,0 +1,34 @@
+[
+  {
+    "skill": "Programming Languages",
+    "details": ["Python", "JavaScript", "C++", "Java", "SQL"]
+  },
+  {
+    "skill": "Web Development",
+    "details": ["HTML", "CSS", "React", "Node.js", "Django"]
+  },
+  {
+    "skill": "Data Analysis",
+    "details": ["Pandas", "NumPy", "Excel", "Tableau", "Power BI"]
+  },
+  {
+    "skill": "Machine Learning",
+    "details": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras", "OpenCV"]
+  },
+  {
+    "skill": "Cloud Platforms",
+    "details": ["AWS", "Google Cloud", "Microsoft Azure", "Heroku", "Firebase"]
+  },
+  {
+    "skill": "DevOps Tools",
+    "details": ["Docker", "Kubernetes", "Jenkins", "Git", "Terraform"]
+  },
+  {
+    "skill": "Cybersecurity",
+    "details": ["Ethical Hacking", "Network Security", "Penetration Testing", "Cryptography"]
+  },
+  {
+    "skill": "Database Management",
+    "details": ["MySQL", "PostgreSQL", "MongoDB", "Oracle Database"]
+  }
+]
